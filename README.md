@@ -5,7 +5,7 @@ Basic id card build using Flutter.
 <a href="bajranggour.tech" target="_blank">**Visit Now** 🚀</a>
 
 ## 📌 Sneak Peek of Home Page 🙈 :
-![Android](hhttps://i.postimg.cc/P57s7vgb/flutter.jpg)
+![Android](https://i.postimg.cc/P57s7vgb/flutter.jpg)
 
 
 
