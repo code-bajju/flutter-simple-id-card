@@ -4,6 +4,10 @@ Basic id card build using Flutter.
 
 <a href="bajranggour.tech" target="_blank">**Visit Now** 🚀</a>
 
+## Tech Stack
+[![Dart](https://img.shields.io/badge/dart%20-%23E34F26.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://github.com/code-bajju/flutter-quiz-app-stranger-things)&nbsp;
+[![Flutter](https://img.shields.io/badge/flutter%20-%231572B6.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/code-bajju/flutter-quiz-app-stranger-things.git)&nbsp;
+
 ## 📌 Sneak Peek of Home Page 🙈 :
 ![Android](https://i.postimg.cc/P57s7vgb/flutter.jpg)
 
